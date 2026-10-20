@@ -29,7 +29,7 @@
 - [`gas-sheetdb`](https://github.com/yorsh-co/gas-sheetdb) - Database-like storage layer for Google Apps Script projects.
 - [`gas-config`](https://github.com/yorsh-co/gas-config) - In-sheet configuration management for Google Apps Script projects.
 - [`gas-logger`](https://github.com/yorsh-co/gas-logger) - A structured logger for Google Apps Script that writes to the execution log and, optionally, to a Google Sheet.
-- [`gas-error`](https://github.com/yorsh-co/gas-error) - A centralized JSON error handler for Google Apps Script with Error classes for expected failures.
+- [`gas-error`](https://github.com/yorsh-co/gas-error) [![Release](https://img.shields.io/github/v/release/yorsh-co/gas-error)](https://github.com/yorsh-co/gas-error/releases) - A centralized JSON error handler for Google Apps Script with Error classes for expected failures.
 - [`gas-webapp`](https://github.com/yorsh-co/gas-webapp) (upcoming) - Single-entry-point router and middleware for Google Apps Script web apps.
 - [`gas-lock`](https://github.com/yorsh-co/gas-lock) (upcoming) - Reentrancy-safe wrapper around Apps Script's LockService.
 
