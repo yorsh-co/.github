@@ -4,9 +4,19 @@
   </a>
 
   <h1 align="center">Yorsh</h1>
+
+  <a href="https://yorsh.co">yorsh.co</a>
 </div>
 
 > Yorsh develops custom tools, integrations, and workspace solutions to help teams solve real-world issues.
+
+---
+
+### Featured
+
+**[PelicanPass](https://github.com/yorsh-co/pelicanpass)** - In-person conference experience web app with participant-initiated check-in, attendee passes and volunteer tooling. Checked in 528 participants and 119 volunteers at its first live event.
+
+[Demo](https://demos.yorsh.co/pelicanpass) · [Event report](https://github.com/yorsh-co/pelicanpass/blob/main/docs/reports/event-2026-10-17.md)
 
 ---
 
