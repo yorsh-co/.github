@@ -19,16 +19,16 @@
 - [`gas-sheetdb`](https://github.com/yorsh-co/gas-sheetdb) - Database-like storage layer for Google Apps Script projects.
 - [`gas-config`](https://github.com/yorsh-co/gas-config) - In-sheet configuration management for Google Apps Script projects.
 - [`gas-logger`](https://github.com/yorsh-co/gas-logger) - A structured logger for Google Apps Script that writes to the execution log and, optionally, to a Google Sheet.
-- [`gas-error`](https://github.com/yorsh-co/gas-error) - Operational error classes and a centralized JSON error handler for Google Apps Script.
-- [`gas-webapp`](https://github.com/yorsh-co/gas-webapp) (in development) - Single-entry-point router and middleware for Google Apps Script web apps.
-- [`gas-lock`](https://github.com/yorsh-co/gas-lock) (in development) - Reentrancy-safe wrapper around Apps Script's LockService.
+- [`gas-error`](https://github.com/yorsh-co/gas-error) - A centralized JSON error handler for Google Apps Script with Error classes for expected failures.
+- [`gas-webapp`](https://github.com/yorsh-co/gas-webapp) (upcoming) - Single-entry-point router and middleware for Google Apps Script web apps.
+- [`gas-lock`](https://github.com/yorsh-co/gas-lock) (upcoming) - Reentrancy-safe wrapper around Apps Script's LockService.
 
 #### Libraries
 
 OAuth 2.0 Flows:
 
 - `gas-auth-google` (upcoming) - OAuth 2.0 flow and token management for Google APIs as a Google Apps Script library.
-- `gas-auth-calendly` (upcoming) - OAuth 2.0 flow and token management for the Calendly API as a Google Apps Script library.
+- [`gas-auth-calendly`](https://github.com/yorsh-co/gas-auth-calendly) (upcoming) - OAuth 2.0 flow and token management for the Calendly API as a Google Apps Script library.
 - `gas-auth-square` (upcoming) - OAuth 2.0 flow and token management for the Square API as a Google Apps Script library.
 
 API Libraries:
