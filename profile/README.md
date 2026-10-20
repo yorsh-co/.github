@@ -52,6 +52,6 @@ API Libraries:
 
 #### Apps
 
-- [`inspired-check`](https://github.com/yorsh-co/inspired-checkin) (in development) - Participant-initiated event check-in app running in Docker.
+- [`pelicanpass`](https://github.com/yorsh-co/pelicanpass) ([demo](https://demos.yorsh.co/pelicanpass)) - In-person conference experience web app with participant-initiated check-in, attendee passes and volunteer tooling.
 
 ---
