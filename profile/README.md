@@ -5,7 +5,7 @@
 
   <h1 align="center">Yorsh</h1>
 
-  <a href="https://yorsh.co">yorsh.co</a>
+  <p><a href="https://yorsh.co">yorsh.co</a></p>
 </div>
 
 > Yorsh develops custom tools, integrations, and workspace solutions to help teams solve real-world issues.
@@ -35,18 +35,18 @@
 
 #### Libraries
 
-OAuth 2.0 Flows:
+##### OAuth 2.0 Flows
 
 - `gas-auth-google` (upcoming) - OAuth 2.0 flow and token management for Google APIs as a Google Apps Script library.
 - [`gas-auth-calendly`](https://github.com/yorsh-co/gas-auth-calendly) (upcoming) - OAuth 2.0 flow and token management for the Calendly API as a Google Apps Script library.
 - `gas-auth-square` (upcoming) - OAuth 2.0 flow and token management for the Square API as a Google Apps Script library.
 
-API Libraries:
+##### API Libraries
 
-- `gas-api-appsscript` (upcoming) - Apps Script API wrapper as a Google Apps Script Library.
-- `gas-api-calendly` (upcoming) - Calendly API wrapper as a Google Apps Script Library.
-- `gas-api-square` (upcoming) - Square API wrapper as a Google Apps Script Library.
-- `gas-api-close` (upcoming) - Close CRM API wrapper as a Google Apps Script Library.
+- `gas-api-appsscript` (upcoming) - Apps Script API wrapper as a Google Apps Script library.
+- `gas-api-calendly` (upcoming) - Calendly API wrapper as a Google Apps Script library.
+- `gas-api-square` (upcoming) - Square API wrapper as a Google Apps Script library.
+- `gas-api-close` (upcoming) - Close CRM API wrapper as a Google Apps Script library.
 
 #### Apps
 
@@ -54,7 +54,7 @@ API Libraries:
 
 ---
 
-### NodeJS
+### Node.js
 
 #### Tools
 
@@ -63,5 +63,3 @@ API Libraries:
 #### Apps
 
 - [`pelicanpass`](https://github.com/yorsh-co/pelicanpass) ([demo](https://demos.yorsh.co/pelicanpass)) - In-person conference experience web app with participant-initiated check-in, attendee passes and volunteer tooling.
-
----
